@@ -5,6 +5,4 @@ permalink: /resources/
 ---
 ### Resources
 
-Jenkins Pipeline Plug-in:
-
-- Jenkins Pipeline Plug-in page
+- [Jenkins Pipeline Plug-in page](/resources/jenkins-pipeline)
