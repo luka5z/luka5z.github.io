@@ -18,6 +18,7 @@ permalink: /resources/jenkins-pipeline/
 - [Automating test runs on hardware with Pipeline as Code](https://jenkins.io/blog/2016/04/07/pipeline-for-runs-on-hardware/)
 - [Replay a Pipeline with script edits](https://jenkins.io/blog/2016/04/14/replay-with-pipeline)
 - [Pipeline Steps Reference](https://jenkins.io/doc/pipeline/steps/)
+- [Orchestrating Workflows with Jenkins and Docker](https://www.cloudbees.com/blog/orchestrating-workflows-jenkins-and-docker)
 
 ## Other Articles
 
